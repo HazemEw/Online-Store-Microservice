@@ -1,0 +1,9 @@
+rootProject.name = 'MicroService'
+include('common')
+include('Category-Service')
+include('Product-Service')
+include('Inventroy-Service')
+include('eureka-service')
+include('api-gateway')
+
+
