@@ -45,5 +45,4 @@ This project is an online store application designed to demonstrate fundamental 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/HazemEw/
-Online-Store-Microservice.git
+   git clone https://github.com/HazemEw/Online-Store-Microservice.git
